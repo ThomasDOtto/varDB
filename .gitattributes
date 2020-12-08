@@ -1,1 +1,2 @@
+vardb_domains.txt.gz filter=lfs diff=lfs merge=lfs -text
 megavardb.fasta.gz filter=lfs diff=lfs merge=lfs -text
