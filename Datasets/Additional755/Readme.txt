@@ -1,0 +1,1 @@
+Assembly of additional 755 isolates from the Pf6 https://www.malariagen.net/projects/p-falciparum-community-project that were not covered in the Pf3k project (https://www.malariagen.net/projects/Pf3k).
