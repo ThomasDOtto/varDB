@@ -1,0 +1,7 @@
+Version4add.SubDomains.Dist.txt.gz filter=lfs diff=lfs merge=lfs -text
+Version4add.SubDomains.List.Subdomains.Association.txt.gz filter=lfs diff=lfs merge=lfs -text
+Version4add.SubDomains.gff.gz filter=lfs diff=lfs merge=lfs -text
+Add.Version4.VAR.aa.500.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Add.Version4.VAR.aa.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Add.Version4.VAR.nt.3kb.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Add.Version4.VAR.nt.fasta.gz filter=lfs diff=lfs merge=lfs -text
