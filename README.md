@@ -10,6 +10,8 @@ We provide the var genes of 2400 assembled genomes (we tried all more, but sever
 
 From this large dataset, we generated a "normalised" dataset with 60 samples from 12 countries. From this dataset, we further provide some files like the blast comparison and some Gephi files. 
 
+We recently (early 2021) include the var genes of further 755 genomes, that are now available.
+
 ## Assembly algorithms
 
 The used assembly algorithms can be found here. We would like to state that they were implemented to work on an LSF architecture. 
