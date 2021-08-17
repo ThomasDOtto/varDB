@@ -6,3 +6,5 @@ We provide the var genes of 2400 assembled genomes (we tried all more, but sever
 
 From this large dataset, we generated a "normalised" dataset with 60 samples from 12 countries. From this dataset, we further provide some files like the blast comparison and some Gephi files. 
 
+The 755 additional genomes were included in 2021. 
+
