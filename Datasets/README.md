@@ -1,3 +1,8 @@
+It should be noted that all the data from the varDB paper are also on this ftp server
+ftp://ftp.sanger.ac.uk/
+
+In directory /pub/project/pathogens/malaria2/PF3K/varDB
+
 ## Data
 
 In the Data directory are the files of the assembled var genes and an overview table of the different samples. They are part of the pf3k project - https://www.malariagen.net/projects/pf3k. The full metadata can be found here: ftp://ngs.sanger.ac.uk/production/pf3k/release_5/pf3k_release_5_metadata_20170804.txt.gz. In this directory, all raw reads are available ftp://ngs.sanger.ac.uk/production/pf3k/release_5/BAM/.
