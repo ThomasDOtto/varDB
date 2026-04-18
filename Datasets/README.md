@@ -2,6 +2,8 @@ IMPORTANT, it is not good to store so big data on GitHub. I need to pull the dat
 
 FURTHER: it was noted that some of the domain gff annotation might be off - we are looking into this. 
 
+Also, we added the upsML data here - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344557 for more information.
+
 ## Data
 
 In the Data directory are the files of the assembled var genes and an overview table of the different samples. They are part of the pf3k project - https://www.malariagen.net/projects/pf3k. The full metadata can be found here: ftp://ngs.sanger.ac.uk/production/pf3k/release_5/pf3k_release_5_metadata_20170804.txt.gz. In this directory, all raw reads are available ftp://ngs.sanger.ac.uk/production/pf3k/release_5/BAM/.
