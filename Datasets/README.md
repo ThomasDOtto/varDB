@@ -1,7 +1,6 @@
-It should be noted that all the data from the varDB paper are also on this ftp server
-ftp://ftp.sanger.ac.uk/
+IMPORTANT, it is not good to store so big data on GitHub. I need to pull the data from here, however, the data were (and will be) here: https://ftp.sanger.ac.uk/pub/project/pathogens/Plasmodium/falciparum/PF3K/varDB/
 
-In directory /pub/project/pathogens/malaria2/PF3K/varDB
+FURTHER: it was noted that some of the domain gff annotation might be off - we are looking into this. 
 
 ## Data
 
@@ -13,3 +12,4 @@ From this large dataset, we generated a "normalised" dataset with 60 samples fro
 
 The 755 additional genomes were included in 2021. 
 
+Last update 18.4.2026 to highlight alternative location of data. 
